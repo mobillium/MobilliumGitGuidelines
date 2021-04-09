@@ -65,7 +65,7 @@ We have two main branches. These are `master` and `develop`.
 * After the tests are completed and approved, they should be merged back to related `release` branch.
 
 
-<a name="release-bugfix"></a>
+<a name="hotfix"></a>
 ## Hotfix Branches
 
 ![](images/hotfix.svg)
