@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1073px" height="754px" viewBox="0 0 1073 754" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hotfix</title>
+    <g id="Hofix" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hotfix" transform="translate(2.800000, 2.000000)">
+            <line x1="54.2" y1="366" x2="16.2" y2="366" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.9858"></line>
+            <line x1="54.2" y1="428" x2="16.2" y2="428" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.9858"></line>
+            <line x1="227.2" y1="366" x2="86.2" y2="366" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.9858"></line>
+            <line x1="229.2" y1="428" x2="88.2" y2="428" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.9858"></line>
+            <line x1="52.2" y1="300" x2="14.2" y2="301" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.9858"></line>
+            <line x1="642.2" y1="366" x2="252.2" y2="366" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.0118"></line>
+            <line x1="517.2" y1="427" x2="261.2" y2="427" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.0118"></line>
+            <line x1="819.2" y1="301" x2="247.2" y2="301" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.0118"></line>
+            <line x1="1027.2" y1="366" x2="848.2" y2="366" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.7877"></line>
+            <line x1="1027.2" y1="427" x2="905.2" y2="427" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.7877"></line>
+            <line x1="1027.2" y1="301" x2="848.2" y2="301" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.7877"></line>
+            <line x1="828.2" y1="366" x2="781.2" y2="366" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.7877"></line>
+            <path d="M529,457.9 C529,474.9 515.2,488.7 498.3,488.7" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M271,457.9 C271,474.9 257.2,488.7 240.3,488.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(255.650000, 473.300000) rotate(90.000000) translate(-255.650000, -473.300000) "></path>
+            <path d="M897.3,456.9 C897.3,473.9 911.1,487.7 928.1,487.7 L951.1,487.7" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M560.6,427.2 L559.7,427.2 C542.7,427.2 528.9,441 528.9,458" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M897.3,457.9 C897.3,440.9 883.5,427.1 866.5,427.1 L758.6,427.1" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M74.2,393 L74.2,457.10356 C74.2,474.708738 88.0545455,489 105.121739,489 L201.2,489" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M417.4,519.2 C417.4,502.2 431.2,488.4 448.2,488.4" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M364.4,731.4 C364.4,717.601299 377.393506,706.4 393.4,706.4" id="Path" stroke="#404040" stroke-width="4" transform="translate(378.900000, 718.900000) rotate(-90.000000) translate(-378.900000, -718.900000) "></path>
+            <path d="M247.1,519.2 C247.1,502.2 233.3,488.4 216.3,488.4" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M240.1,330.2 C240.1,313.641558 226.658442,300.2 210.1,300.2" id="Path" stroke="#404040" stroke-width="4"></path>
+            <line x1="158.2" y1="612" x2="397.2" y2="612" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="176.2" y1="300" x2="212.2" y2="300" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="156.2" y1="673" x2="224.2" y2="673" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="971.2" y1="489" x2="172.8" y2="488.5" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="761.2" y1="427" x2="559.2" y2="427" id="Path" stroke="#404040" stroke-width="4"></line>
+            <path d="M247.1,519.2 C247.1,536.2 260.9,550 277.9,550 L385.8,550" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M385.8,550 L386.7,550 C403.7,550 417.4,536.2 417.4,519.2" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M255.4,643 C255.4,625.88961 269.28961,612 286.4,612" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M223.8,673 L224.7,673 C241.7,673 255.4,659.2 255.4,642.2" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M366.4,673 C366.4,656 380.2,642.2 397.2,642.2" id="Path" stroke="#404040" stroke-width="4" transform="translate(381.800000, 657.600000) scale(1, -1) translate(-381.800000, -657.600000) "></path>
+            <path d="M336.4,642 L337.25443,642 C353.393671,642 366.4,628.558442 366.4,612" id="Path" stroke="#404040" stroke-width="4" transform="translate(351.400000, 627.000000) scale(1, -1) translate(-351.400000, -627.000000) "></path>
+            <line x1="63.8" y1="488.5" x2="14.3" y2="488.5" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.1243"></line>
+            <line x1="126.2" y1="550" x2="14.1" y2="550" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.6844"></line>
+            <line x1="236.2" y1="550" x2="152.2" y2="550" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.6844"></line>
+            <line x1="1027.2" y1="550" x2="417.2" y2="550" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.7717"></line>
+            <line x1="102.8" y1="611.5" x2="14.1" y2="611.5" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.6492"></line>
+            <line x1="102.8" y1="673.5" x2="14.1" y2="673.5" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.6492"></line>
+            <line x1="349.8" y1="673.5" x2="261.1" y2="673.5" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.6492"></line>
+            <line x1="102.8" y1="733.5" x2="14.1" y2="733.5" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.6492"></line>
+            <line x1="1027.2" y1="612" x2="413.2" y2="612" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.907"></line>
+            <line x1="1027.2" y1="674" x2="498.2" y2="673" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.907"></line>
+            <line x1="1027.2" y1="488" x2="982.2" y2="488" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.907"></line>
+            <line x1="447.2" y1="733" x2="1027.2" y2="734" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,13.907"></line>
+            <g id="Group" transform="translate(125.000000, 472.700000)" fill="#B18BE8" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(173.000000, 472.700000)" fill="#B18BE8" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(293.000000, 472.700000)" fill="#B18BE8" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(293.000000, 534.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(125.000000, 656.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <line x1="157.2" y1="733" x2="428.2" y2="733" id="Path" stroke="#404040" stroke-width="4"></line>
+            <g id="Group" transform="translate(183.000000, 657.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(397.000000, 657.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(397.000000, 717.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(290.000000, 717.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(220.000000, 717.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(125.000000, 717.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(126.000000, 595.700000)" fill="#0091FF" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(183.000000, 597.700000)" fill="#0091FF" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(293.000000, 595.700000)" fill="#0091FF" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(366.000000, 595.700000)" fill="#0091FF" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(340.000000, 534.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(463.000000, 472.700000)" fill="#B18BE8" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(575.000000, 411.700000)" fill="#4CD3D6" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(824.000000, 410.700000)" fill="#4CD3D6" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(943.000000, 472.700000)" fill="#B18BE8" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <line x1="141.7" y1="504.2" x2="141.7" y2="595.7" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="840.2" y1="255" x2="840.2" y2="411" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="74.2" y1="270" x2="74.2" y2="396" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="240.2" y1="328" x2="240.2" y2="458" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="366.2" y1="642" x2="366.2" y2="705" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="428.2" y1="673" x2="485.2" y2="673" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="141.2" y1="627" x2="141.2" y2="657" id="Path" stroke="#404040" stroke-width="4"></line>
+            <line x1="141.2" y1="688" x2="141.2" y2="719" id="Path" stroke="#404040" stroke-width="4"></line>
+            <path d="M74.2,271 C74.2,253.337662 60.3103896,239 43.2,239" id="Path" stroke="#404040" stroke-width="4"></path>
+            <g id="Branch" transform="translate(419.200000, 0.000000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#4CD3D6" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="21.1525" y="30.7">Release</tspan>
+                </text>
+            </g>
+            <g id="Branch" transform="translate(557.200000, 0.000000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B18BE8" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="19.3675" y="30.7">Develop</tspan>
+                </text>
+            </g>
+            <g id="Branch" transform="translate(695.200000, 0.000000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#0091FF" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="33.58" y="30.7">Epic</tspan>
+                </text>
+            </g>
+            <g id="Branch" transform="translate(833.200000, 0.000000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#4ED1A1" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="21.115" y="30.7">Feature</tspan>
+                </text>
+            </g>
+            <g id="Branch" transform="translate(971.200000, 0.000000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#4ED1A1" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="21.115" y="30.7">Feature</tspan>
+                </text>
+            </g>
+            <g id="Branch" transform="translate(143.200000, 0.300000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#FC8363" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="26.5575" y="30.7">Hotfix</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(5.200000, 0.300000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B3E3FF" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="23.2925" y="30.7">Master</tspan>
+                </text>
+            </g>
+            <g id="Branch" transform="translate(281.200000, 0.300000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#F7B500" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <text id="Master" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5" fill="#404040">
+                    <tspan x="26.34" y="30.7">Bugfix</tspan>
+                </text>
+            </g>
+            <line x1="1027.2" y1="239" x2="929.2" y2="239" id="Path" stroke="#CCCCCC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,14.9632"></line>
+            <line x1="924.2" y1="239" x2="31.2" y2="239" id="Path" stroke="#404040" stroke-width="4"></line>
+            <g id="Group" transform="translate(0.000000, 223.700000)" fill="#B3E3FF" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(292.000000, 223.200000)" fill="#B3E3FF" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(824.000000, 223.200000)" fill="#B3E3FF" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(454.000000, 656.700000)" fill="#4ED1A1" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <path d="M62.3,205.1 L62.3,187.5 M70.4,198.6 L62.3,206.7 L54.1,198.6" id="Shape" stroke="#404040" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M307.8,205.1 L307.8,187.5 M315.9,198.6 L307.8,206.7 L299.6,198.6" id="Shape" stroke="#404040" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M840,208.1 L840,190.5 M848.2,201.6 L840,209.7 L831.9,201.6" id="Shape" stroke="#404040" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M652,366.1 C652,383.1 665.8,396.9 682.8,396.9 L700.1,396.9" id="Path" stroke="#404040" stroke-width="4" transform="translate(676.050000, 381.500000) scale(1, -1) translate(-676.050000, -381.500000) "></path>
+            <path d="M652,427.3 C652,410.3 638.2,396.5 621.2,396.5" id="Path" stroke="#404040" stroke-width="4" transform="translate(636.600000, 411.900000) scale(1, -1) translate(-636.600000, -411.900000) "></path>
+            <path d="M778.8,366.1 C778.8,383.1 765,396.9 748,396.9 L700,396.9" id="Path" stroke="#404040" stroke-width="4" transform="translate(739.400000, 381.500000) scale(1, -1) translate(-739.400000, -381.500000) "></path>
+            <g id="Group" transform="translate(696.000000, 350.200000)" fill="#F7B500" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <path d="M778.8,427.3 C778.8,410.3 792.6,396.5 809.6,396.5" id="Path" stroke="#404040" stroke-width="4" transform="translate(794.200000, 411.900000) scale(1, -1) translate(-794.200000, -411.900000) "></path>
+            <path d="M74.4,269.8 C74.4,286.8 88.2,300.6 105.2,300.6 L122.5,300.6" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M74.4,270.2 C74.4,253.2 60.6,239.4 43.6,239.4" id="Path" stroke="#404040" stroke-width="4"></path>
+            <path d="M201.2,269.8 C201.2,286.8 187.4,300.6 170.4,300.6 L122.4,300.6" id="Path" stroke="#404040" stroke-width="4"></path>
+            <g id="Group" transform="translate(122.000000, 284.700000)" fill="#FC8363" stroke="#404040" stroke-width="4">
+                <g id="Oval">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+            </g>
+            <path d="M201.2,270.2 C201.2,253.2 215,239.4 232,239.4" id="Path" stroke="#404040" stroke-width="4"></path>
+            <g id="version" transform="translate(40.000000, 133.500000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B3E3FF" stroke-linejoin="round" points="0 0 45 0 45 37.5 0 37.5"></polygon>
+                <text id="v1.0" font-family="Lato-Regular, Lato" font-size="13" font-weight="normal" letter-spacing="0.1" fill="#404040">
+                    <tspan x="5.07070588" y="25">v1.0.0</tspan>
+                </text>
+            </g>
+            <g id="version" transform="translate(285.000000, 133.500000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B3E3FF" stroke-linejoin="round" points="0 0 45 0 45 37.5 0 37.5"></polygon>
+                <text id="v1.0" font-family="Lato-Regular, Lato" font-size="13" font-weight="normal" letter-spacing="0.1" fill="#404040">
+                    <tspan x="5.07070588" y="25">v1.0.1</tspan>
+                </text>
+            </g>
+            <g id="version" transform="translate(818.000000, 133.500000)">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B3E3FF" stroke-linejoin="round" points="0 0 45 0 45 37.5 0 37.5"></polygon>
+                <text id="v1.0" font-family="Lato-Regular, Lato" font-size="13" font-weight="normal" letter-spacing="0.1" fill="#404040">
+                    <tspan x="5.07070588" y="25">v1.1.0</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
