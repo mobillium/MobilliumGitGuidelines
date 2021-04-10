@@ -72,8 +72,8 @@ We have two main branches. These are `master` and `develop`.
 
 
 * The `hotfix` branches are used for quick bugfix on production releases.
-* Each new `hotfix` should be created from `release`.
-* Branch name should be start with `hotfix/` and end with task name.
+* Each new `hotfix` should be created from `master`.
+* Branch name should be start with `hotfix/` and end with version number(e.g. `hotfix/1.1.11`).
 * After the fix is complete, they should be merged to `master` and `develop` branches, and `master` should be tagged with an updated version numbers.
 
 
