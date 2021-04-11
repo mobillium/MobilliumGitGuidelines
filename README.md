@@ -52,6 +52,7 @@ We have two main branches. These are `master` and `develop`.
 
 > * ***Only `bugfix` can be made on the `release` branch.***
 > * ***No new feature can be added to after branch created.***
+> * ***If a new feature needs to be added, new release branch with increased version must be created.***
 
 ### Release Branches
 * Each new `release` should be created from `develop`.
