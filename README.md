@@ -19,7 +19,7 @@
 
 We have two main branches. These are `master` and `develop`.
 * The `master` branch store the latest release codebase.
-* The `develop` branch store the updated codebase.
+* The `develop` branch store the latest codebase.
 
 
 
