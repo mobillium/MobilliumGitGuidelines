@@ -30,7 +30,7 @@ We have two main branches. These are `master` and `develop`.
 
 ### Small Tasks
 * Each new `small` `feature` should be created from `develop`.
-* Branch name should be start with `feature/` and end with task name.
+* Branch name should be start with `feature/`, if you have `ISSUECODE` branch name should be end continue `ISSUECODE` and short task name(e.g. `feature/MBL-1234-short-task-name`) else branch name should be end with task name(e.g. `feature/short-task-name`).
 * After the tests are completed and approved, they should be merged back to related `develop` branch.
 
 ### Large Tasks
@@ -40,7 +40,7 @@ We have two main branches. These are `master` and `develop`.
 
 
 * Sub-tasks of Large Tasks are should be created from `epic`.
-* Branch name should be start with `feature/` and end with task name.
+* Branch name should be start with `feature/`, if you have `ISSUECODE` branch name should be continue with `ISSUECODE` and short task name(e.g. `feature/MBL-1234-short-task-name`) else branch name should be end with task name(e.g. `feature/short-task-name`).
 * After the tests are completed and approved, they should be merged back to related `epic` branch.
 
 
