@@ -8,6 +8,7 @@
 1. [Feature & Epic Branches](#feature-epic)
 1. [Release & Bugfix Branches](#release-bugfix)
 1. [Hotfix Branches](#hotfix)
+1. [Commit Messages Template](#commit-messages-template)
 1. [Summary](#summary)
 1. [References](#references)
 
@@ -78,6 +79,29 @@ We have two main branches. These are `master` and `develop`.
 * After the fix is complete, they should be merged to `master` and `develop` branches, and `master` should be tagged with an updated version numbers.
 
 
+
+<a name="commit-messages-template"></a>
+## Commit Messages Template
+
+### Wrong Commit Messages
+
+![](Images/commit-messages-wrong.svg)
+
+## Commit types
+
+| Commit Type | Title                    | Description                                                                                                 |
+| ----------- | ------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| `feat`      | Features                 | A new feature                                                                                               |
+| `fix`       | Bug Fixes                | A bug Fix                                                                                                   |
+| `docs`      | Documentation            | Documentation only changes                                                                                  |
+| `style`     | Styles                   | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
+| `refactor`  | Code Refactoring         | A code change that neither fixes a bug nor adds a feature                                                   |
+| `perf`      | Performance Improvements | A code change that improves performance                                                                     |
+| `test`      | Tests                    | Adding missing tests or correcting existing tests                                                           |
+| `build`     | Builds                   | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm, Alamofire,)         |
+| `ci`        | Continuous Integrations  | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
+| `chore`     | Chores                   | Other changes that don't modify src or test files                                                           |
+| `revert`    | Reverts                  | Reverts a previous commit                                                                                   |
 
 <a name="summary"></a>
 ## Summary
