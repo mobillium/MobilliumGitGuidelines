@@ -15,7 +15,7 @@
 <a name="master-develop"></a>
 ## Master & Develop Branches
 
-![](images/master-develop.svg)
+![](Images/master-develop.svg)
 
 We have two main branches. These are `master` and `develop`.
 * The `master` branch store the latest released codebase.
@@ -26,7 +26,7 @@ We have two main branches. These are `master` and `develop`.
 <a name="feature-epic"></a>
 ## Feature & Epic Branches
 
-![](images/feature-epic.svg)
+![](Images/feature-epic.svg)
 
 ### Small Tasks
 * Each new `small` `feature` should be created from `develop`.
@@ -48,7 +48,7 @@ We have two main branches. These are `master` and `develop`.
 <a name="release-bugfix"></a>
 ## Release & Bugfix Branches
 
-![](images/release-bugfix.svg)
+![](Images/release-bugfix.svg)
 
 > * ***Only `bugfix` can be made on the `release` branch.***
 > * ***No new feature can be added to after branch created.***
@@ -69,7 +69,7 @@ We have two main branches. These are `master` and `develop`.
 <a name="hotfix"></a>
 ## Hotfix Branches
 
-![](images/hotfix.svg)
+![](Images/hotfix.svg)
 
 
 * The `hotfix` branches are used for quick bugfix on production releases.
@@ -82,7 +82,7 @@ We have two main branches. These are `master` and `develop`.
 <a name="summary"></a>
 ## Summary
 
-![](images/gitflow.svg)
+![](Images/gitflow.svg)
 
 The overall flow of Gitflow-M is:
 
