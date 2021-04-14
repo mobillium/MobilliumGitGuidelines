@@ -83,9 +83,15 @@ We have two main branches. These are `master` and `develop`.
 <a name="commit-messages-template"></a>
 ## Commit Messages Template
 
-### Wrong Commit Messages
+Good commit messages that provide you useful information about what has changed and why. A well-crafted Git commit message is the best way to communicate context about a change to fellow developers (and indeed to their future selves). A diff will tell you what changed, but only the commit message can properly tell you why.
 
-![](Images/commit-messages-wrong.svg)
+### Incorrect Commit Messages
+
+![](Images/commit-messages-incorrect.svg)
+
+### Correct Commit Messages
+
+![](Images/commit-messages-correct.svg)
 
 ## Commit types
 
@@ -99,7 +105,7 @@ We have two main branches. These are `master` and `develop`.
 | `perf`      | Performance Improvements | A code change that improves performance                                                                     |
 | `test`      | Tests                    | Adding missing tests or correcting existing tests                                                           |
 | `build`     | Builds                   | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm, Alamofire,)         |
-| `ci`        | Continuous Integrations  | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
+| `ci`        | Continuous Integrations  | Changes to our CI configuration files and scripts (example scopes: SonarCloud, Bitrise) |
 | `chore`     | Chores                   | Other changes that don't modify src or test files                                                           |
 | `revert`    | Reverts                  | Reverts a previous commit                                                                                   |
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="786px" height="565px" viewBox="0 0 786 565" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>commit-messages-wrong</title>
-    <g id="CommitMessagesWrong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="commit-messages-wrong" transform="translate(2.000000, 2.300000)">
+    <title>commit-messages-incorrect</title>
+    <g id="CommitMessagesIncorrect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="commit-messages-incorrect" transform="translate(2.000000, 2.300000)">
             <line x1="33" y1="529.7" x2="33" y2="70.7" id="Path" stroke="#404040" stroke-width="4"></line>
             <line x1="79" y1="408.7" x2="79" y2="324.7" id="Path" stroke="#404040" stroke-width="4"></line>
             <g id="Branch" transform="translate(-0.000000, 0.700000)">
@@ -74,8 +74,8 @@
             <path d="M78.9,324.9 C78.9,307.9 65.1,294.1 48.1,294.1" id="Path" stroke="#404040" stroke-width="4"></path>
             <path d="M78.9,439.9 C78.9,422.9 65.1,409.1 48.1,409.1" id="Path" stroke="#404040" stroke-width="4" transform="translate(63.500000, 424.500000) rotate(90.000000) translate(-63.500000, -424.500000) "></path>
             <g id="Comments" transform="translate(117.000000, 77.700000)" fill="#CCCCCC" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5">
-                <text id="Enable-Config">
-                    <tspan x="2.84217094e-14" y="15">Enable Config</tspan>
+                <text id="Re-adding-Configurat">
+                    <tspan x="2.84217094e-14" y="15">Re-adding ConfigurationPostProcessorTests after ….</tspan>
                 </text>
                 <text id="some-codes">
                     <tspan x="2.84217094e-14" y="66">some codes</tspan>
@@ -101,8 +101,8 @@
                 <text id="hands-up">
                     <tspan x="2.84217094e-14" y="170">hands up</tspan>
                 </text>
-                <text id="ahahahahahah">
-                    <tspan x="2.84217094e-14" y="222">ahahahahahah</tspan>
+                <text id="edited">
+                    <tspan x="2.84217094e-14" y="222">edited</tspan>
                 </text>
             </g>
             <g id="Dates" transform="translate(537.000000, 77.700000)" fill="#CCCCCC" font-family="Lato-Regular, Lato" font-size="15" font-weight="normal" letter-spacing="0.5">
