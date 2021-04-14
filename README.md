@@ -93,7 +93,7 @@ Good commit messages that provide you useful information about what has changed 
 
 ![](Images/commit-messages-correct.svg)
 
-## Commit types
+### Commit types
 
 | Commit Type | Title                    | Description                                                                                                 |
 | ----------- | ------------------------ | ----------------------------------------------------------------------------------------------------------- |
@@ -108,6 +108,8 @@ Good commit messages that provide you useful information about what has changed 
 | `ci`        | Continuous Integrations  | Changes to our CI configuration files and scripts (example scopes: SonarCloud, Bitrise) |
 | `chore`     | Chores                   | Other changes that don't modify src or test files                                                           |
 | `revert`    | Reverts                  | Reverts a previous commit                                                                                   |
+
+
 
 <a name="summary"></a>
 ## Summary
